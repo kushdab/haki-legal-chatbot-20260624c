@@ -1,0 +1,2 @@
+# No external dependencies required for the base version
+# Built using Python Standard Library
